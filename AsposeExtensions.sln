@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposeExtensions", "AsposeExtensions\AsposeExtensions.csproj", "{CC3531A6-ACC8-4C00-9FD3-397BE02BE3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposeExtensions.Tests", "AsposeExtensions.Tests\AsposeExtensions.Tests.csproj", "{ABEC6F1C-0776-459F-B1ED-3F06970F41C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3531A6-ACC8-4C00-9FD3-397BE02BE3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3531A6-ACC8-4C00-9FD3-397BE02BE3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3531A6-ACC8-4C00-9FD3-397BE02BE3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3531A6-ACC8-4C00-9FD3-397BE02BE3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEC6F1C-0776-459F-B1ED-3F06970F41C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEC6F1C-0776-459F-B1ED-3F06970F41C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEC6F1C-0776-459F-B1ED-3F06970F41C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEC6F1C-0776-459F-B1ED-3F06970F41C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9162894-2761-48B4-ADB5-B418CE79501B}
+	EndGlobalSection
+EndGlobal
