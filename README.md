@@ -35,3 +35,7 @@ public class ContasAPagarSheetRow
   var excel = new Workbook();
   var rows = excel.RowsToModelList<ContasAPagarSheetRow>("SHEET NAME", 2);
 ```
+
+# Roadmap
+Export from model<br />
+Transform SheetName param to import optional
