@@ -24,8 +24,8 @@ public class ContasAPagarSheetRow
 ```
 
 1.1 - SheetColumn with empty constructor will search for column with same property name;<br />
-1.2 - SheetColumn with number constructor will search for column with number of column;<br />
-1.3 - SheetColumn with string constructor will search for column with name of string;<br />
+1.2 - SheetColumn with number constructor will search for column with the column position;<br />
+1.3 - SheetColumn with string constructor will search for column with name of header;<br />
 1.3.1 - This feature is a method extension GetCellValueByNameColumn;<br />
 
 <br />
